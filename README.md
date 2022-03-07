@@ -22,14 +22,14 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirdev97&show_icons=true&theme=radical&locale=en&layout=compact" alt="sirdev97" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirdev97&show_icons=true&theme=radical&locale=en&layout=compact" alt="sirdev97" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirdev97&hide=stars,issues&show_icons=true&theme=radical&locale=en" alt="sirdev97" /></p>
 
 <br />
 <br />
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirdev97&hide=stars,issues&show_icons=true&theme=radical&locale=en" alt="sirdev97" /></p>
+<p></p>
 
 <br />
 <br />
