@@ -11,10 +11,14 @@
 - ⚡ Fun fact: I owe a lot to video games for sparking my love in tech.
 - 📫 How to reach me **alkin971@gmail.com**
 
+<br />
+
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirdev97&show_icons=true&theme=radical&locale=en&layout=compact" alt="sirdev97"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sirdev97&hide=stars,issues&show_icons=true&theme=radical&locale=en" alt="sirdev97"/>
 </p>
+
+<br />
 
 <h3 align="left">Connect with me 🤝</h3>
 <p align="left">
@@ -22,6 +26,8 @@
 <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alkin-maystorov/" height="30" width="40" />
 </a>
 </p>
+
+<br />
 
 <h3 align="left">Languages and Tools 🛠</h3>
 <p align="left">
