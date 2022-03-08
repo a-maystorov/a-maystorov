@@ -1,6 +1,6 @@
 <h1  align="left">Hi 👋, I'm Alkin</h1>
 
-<h2  align="left">I'm an aspiring frontend developer from Bulgaria currently living in Germany.</h2>
+    I'm an aspiring frontend developer from Bulgaria currently living in Germany.
 
 <h3  align="left">I love video games and everything related to them, also I can talk with computers. 😜</h3>
 
