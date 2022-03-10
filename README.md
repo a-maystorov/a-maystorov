@@ -6,7 +6,7 @@
 
 <h3  align="left">I'm a video games enthusiast and also I talk with computers every so often. 😁</h3>
 
-- 🌱 I’m currently working on personal portfolio website.
+- 🌱 I’m currently working on my personal portfolio website.
 
 - 👯 I’m always looking to collaborate with other developers on different projects or ideas.
 
