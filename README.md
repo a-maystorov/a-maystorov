@@ -1,8 +1,12 @@
 <h1  align="left">Hi 👋, I'm Alkin</h1>
 
-<h3  align="left">I'm a tech geek, gamer, and an esports enthusiast! 😜</h3>
+<br />
 
-- 🌱 I’m currently working on personal portfolio website .
+    I'm an aspiring frontend developer from Bulgaria currently living in Germany.
+
+<h3  align="left">I'm a video games enthusiast and also I talk with computers every so often. 😁</h3>
+
+- 🌱 I’m currently working on my personal portfolio website.
 
 - 👯 I’m always looking to collaborate with other developers on different projects or ideas.
 
