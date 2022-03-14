@@ -4,7 +4,7 @@
 
     I'm an aspiring frontend developer from Bulgaria currently living in Germany.
 
-<h3  align="left">I'm a video games enthusiast and also I talk with computers every so often. 😁</h3>
+<h3  align="left">I'm a video games enthusiast, and also I talk with computers every so often. 😁</h3>
 
 - 🌱 I’m currently working on my personal portfolio website.
 
