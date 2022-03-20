@@ -1,6 +1,6 @@
 <h1  align="left">Hi 👋, I'm Alkin</h1>
 
-<h3  align="left">I'm a video games and esports enthusiast from Bulgaria who loves talking with computers every so often. 😁</h3>
+<h3  align="left">I'm a video games and esports enthusiast from Bulgaria who loves talking with computers every so often.</h3>
 
 - 🌱 I’m currently working on my personal portfolio website.
 
