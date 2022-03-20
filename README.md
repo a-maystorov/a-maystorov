@@ -1,8 +1,8 @@
 <h1  align="left">Hi 👋, I'm Alkin</h1>
 
-- I am a Front-End Web Developer from Bulgaria, currently living in Germany.
+<br />
 
-<h3  align="left">I'm a video games enthusiast who also talks with computers. 😁</h3>
+<h3  align="left">I'm a video games and esports enthusiast from Bulgaria who loves talking with computers every so often. 😁</h3>
 
 - 🌱 I’m currently working on my personal portfolio website.
 
