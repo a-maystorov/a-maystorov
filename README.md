@@ -4,8 +4,6 @@
 
 <h3  align="left">I'm a video games and esports enthusiast from Bulgaria who loves talking with computers every so often. 😁</h3>
 
-<br />
-
 - 🌱 I’m currently working on my personal portfolio website.
 
 - 👯 I’m always looking to collaborate with other developers on different projects or ideas.
@@ -17,8 +15,6 @@
 - 📫 Email: **alkin971@gmail.com**
 
 - [Check out my website](https://www.alkinmaystorov.com) for more information about me.
-
-<br />
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sirdev97&hide=stars,issues&count_private=true&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
