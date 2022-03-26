@@ -2,7 +2,7 @@
 
 <h3  align="left">I'm a video games and esports enthusiast from Bulgaria who loves talking with computers every so often.</h3>
 
-- 🌱 I’m currently working on my personal portfolio website.
+- 🌱 I’m currently working on a clients landing page for their business and searching for open source projects to which I can contribute.
 
 - 👯 I’m always looking to collaborate with other developers on different projects or ideas.
 
