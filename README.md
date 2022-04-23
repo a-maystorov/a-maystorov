@@ -6,7 +6,7 @@
 
 <h3  align="left">I am also a video games and esports enthusiast among talking with computers. 🤓</h3>
 
-- 🌱 I’m currently working on a clients landing page for their business and contributing to open-source as much as I can.
+- 🌱 I’m currently volunteering at GreenStand as part of the React team.
 
 - 👯 I’m always looking to collaborate with other developers on different projects or ideas.
 
