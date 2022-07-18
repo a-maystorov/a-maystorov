@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Alkin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Front+End+Web+Developer;Open-Source+Enthusiast;Nice+To+Meet+You&center=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Delivery+Driver+By+Day;Coding+Ninja+By+Night;Open-Source+Enthusiast;Vide+Game+Geek;Pleased+To+Meet+You&center=true">
 </p>
 
 <h3  align="left">I am also a video games and esports enthusiast among talking with computers. 🤓</h3>
@@ -16,7 +16,7 @@
 
 - 📫 Email: **alkin971@gmail.com**
 
-- [Check out my website](https://www.alkinmaystorov.com) for more information about me.
+- [Check out my website](https://alkinmaystorov.com) for more information about me.
 
 <br />
 
