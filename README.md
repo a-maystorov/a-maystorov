@@ -16,7 +16,7 @@ Check out some of my pinned projects and coding challenges to get an idea for my
 
 - ℹ Check out [my website](https://alkinmaystorov.com) for more information about me.
 
-- ⚡ Random fact: I owe a lot to video games for sparking my love in tech.
+- ⚡ Random fact: I owe a lot to video games for sparking my love in tech and coding.
 
 
 <br />
