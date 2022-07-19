@@ -5,7 +5,7 @@
 </h1>
 
 <p>
-I love solving problems and bringing ideas to life using the power of technology. I am open to working as a front-end web developer. Check out some of my pinned projects and coding challenges to get an idea of my skills, and feel free to contact me via email or LinkedIn.
+I love solving problems and bringing ideas to life using the power of technology. I am open to working as a front-end web developer full-time or part-time. Check out some of my pinned projects and coding challenges to get an idea of my skills, and feel free to contact me via email or LinkedIn.
 </p>
 
 
