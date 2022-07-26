@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> 
   Hello my name is Alkin, I'm a 
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=650&height=45&lines=Web+Developer;Lifelong+learner;Nerd+🤓;&center=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=650&height=45&lines=Web+Developer+👨‍💻;Lifelong+learner+📚;Coding+Ninja+🐱‍👤;Nerd+🤓;&center=true">
 </h1>
 
 <p>
