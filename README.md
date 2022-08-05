@@ -5,7 +5,7 @@
 </h1>
 
 <p>
-I love solving problems and bringing ideas to life using the power of technology. Ideally, I am looking for an entry-level front-end or full-stack position focusing on the front-end and a tech stack based around javascript. Still, I would happily welcome any challenge that will grow me as a developer and teach me new technologies. Check out some of my pinned projects and coding challenges to get an idea of my skills, and feel free to contact me via email or LinkedIn.
+I love solving problems and bringing ideas to life using the power of technology. I am looking for an entry-level front-end or full-stack position with a focus on the front-end. Check out some of my pinned projects and coding challenges to get an idea of my skills, and feel free to contact me via email or LinkedIn.
 </p>
 
 
@@ -15,7 +15,7 @@ I love solving problems and bringing ideas to life using the power of technology
 
 - ℹ Check out [my website](https://alkinmaystorov.com) for more information about me.
 
-- ⚡ Random fact: I owe a lot to video games for sparking my love in tech and coding.
+-⚡ Random fact: I owe a lot to video games for sparking my love in tech and coding.
 
 
 <br />
