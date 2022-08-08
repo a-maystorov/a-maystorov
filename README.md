@@ -15,7 +15,7 @@ I love solving problems and bringing ideas to life using the power of technology
 
 - ℹ Check out [my website](https://alkinmaystorov.com) for more information about me.
 
--⚡ Random fact: I owe a lot to video games for sparking my love in tech and coding.
+- ⚡ Random fact: I owe a lot to video games for sparking my love in tech and coding.
 
 
 <br />
