@@ -5,7 +5,7 @@
 </h1>
 
 <p>
-I love solving problems and bringing ideas to life using the power of technology. I am looking for an entry-level front-end or full-stack position with a focus on the front-end. Check out some of my pinned projects and coding challenges to get an idea of my skills, and feel free to contact me via email or LinkedIn.
+I am a front-end focused web developer that loves solving problems and bringing ideas to life using the power of technology. Check out some of my pinned projects and coding challenges to get an idea of my skills, and feel free to contact me via email or LinkedIn.
 </p>
 
 
