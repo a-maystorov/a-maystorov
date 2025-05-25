@@ -1,25 +1,74 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> 
-  Hello my name is Alkin, I'm a 
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=650&height=45&lines=Web+Developer+👨‍💻;Lifelong+learner+📚;Coding+Ninja+🥷;Nerd+🤓;&center=true">
+  Hello, I'm Alkin Maystorov
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=650&height=45&lines=Full-Stack+Engineer+👨‍💻;TypeScript+Specialist+🔥;MongoDB+%26+Express+Developer+⚡;React+%26+Node.js+Expert+🚀;&center=true">
+  </div>
 </h1>
 
-<p>
-I am a front-end focused web developer that loves solving problems and bringing ideas to life using the power of technology. Check out some of my pinned projects and coding challenges to get an idea of my skills, and feel free to contact me via email or LinkedIn.
+<p align="center">
+  <a href="https://www.linkedin.com/in/alkin-maystorov/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://alkinmaystorov.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Website">
+  </a>
+  <a href="mailto:alkin971@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
+## 💻 About Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/alkin-maystorov/)
+I'm a passionate Full-Stack Developer specializing in modern web technologies. With expertise in TypeScript, Node.js, and React, I architect scalable solutions that solve real-world problems. I excel at building robust applications with clean, maintainable code and strong type systems.
 
-- 📫 Email: **alkin971@gmail.com**
+- 🔭 Currently working on **Flow Forge**, a project management platform with AI-powered features
+- 🌱 Focused on **TypeScript**, **MongoDB**, **Express**, and **React** ecosystems
+- 💡 Passionate about creating well-typed, maintainable codebases
+- 🚀 Strong experience with RESTful APIs and service-oriented architecture
+- 🧠 Implementing AI integrations with OpenAI for intelligent assistance features
 
-- ℹ Check out [my website](https://alkinmaystorov.com) for more information about me.
+## 🛠️ Technical Skills
 
-- ⚡ Random fact: I owe a lot to video games for sparking my love in tech and coding.
+```
+├── Frontend
+│   ├── React, Next.js
+│   ├── TypeScript
+│   ├── Redux, Context API
+│   └── CSS/SCSS, Styled Components
+│
+├── Backend
+│   ├── Node.js, Express
+│   ├── MongoDB, Mongoose
+│   ├── RESTful APIs
+│   └── Authentication (JWT)
+│
+├── Architecture & Patterns
+│   ├── Type Systems
+│   ├── Microservices
+│   └── Service-Oriented Design
+│
+└── DevOps & Tools
+    ├── Git, GitHub
+    ├── CI/CD
+    └── Testing Frameworks
+```
 
+## 🔍 What I Do
 
-<br />
+- **Type-Safe Development**: Create robust applications with comprehensive TypeScript interfaces
+- **Database Design**: Model MongoDB schemas with scalability and performance in mind
+- **API Development**: Build secure, well-documented RESTful services
+- **AI Integration**: Implement intelligent features using natural language processing
+- **Frontend Architecture**: Develop responsive, accessible user interfaces
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=a-maystorov&hide=stars,issues&count_private=true&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-maystorov&show_icons=true&&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a-maystorov&hide=stars,issues&count_private=true&show_icons=true&layout=compact&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-maystorov&show_icons=true&&layout=compact&theme=radical" alt="Top Languages" width="42%" />
+</p>
+
+## 🌟 Fun Fact
+
+I owe my passion for technology and coding to video games, which sparked my curiosity about how digital worlds are built and continue to inspire my creative approach to problem-solving.
